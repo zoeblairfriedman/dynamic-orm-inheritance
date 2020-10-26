@@ -94,4 +94,4 @@ pattern of inheritance will become familiar. In fact, we'll use an ORM tool
 called Active Record that handles *all* of the ORM interactions for us, and
 we'll simply inherit our Ruby classes from Active Record's classes.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/dynamic-orm-inheritance'>Dynamic ORMs with Inheritance</a> on Learn.co and start learning to code for free.</p>
+
